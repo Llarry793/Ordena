@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ordena</string>
+    <string name="location_selected">Ubicación seleccionada</string>
+    <string name="complete_all_fields">Completa todos los campos y selecciona una ubicación</string>
+    <string name="camera_error">Error al abrir la cámara</string>
+    <string name="image_file_error">Error al crear el archivo de imagen</string>
+</resources>
