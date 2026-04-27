@@ -77,7 +77,7 @@ La tabla `products` tiene una clave foránea que referencia a `restaurants`, gar
 | `MainActivity` | Activity | Lista principal de restaurantes, swipe-to-delete con undo, navegación al mapa global |
 | `ProductActivity` | Activity | Inventario de un restaurante, CRUD de productos, alertas de stock bajo, navegación al mapa individual |
 | `RestaurantMapActivity` | Activity | Muestra uno o varios restaurantes en Google Maps mediante un Intent geo URI |
-| `MapPickerActivity` | Activity | Permite al usuario seleccionar una ubicación en el mapa para asociarla a un restaurante[ |
+| `MapPickerActivity` | Activity | Permite al usuario seleccionar una ubicación en el mapa para asociarla a un restaurante |
 | `Restaurant` | Data class | Modelo de dominio del restaurante, implementa `Parcelable` para su paso entre Activities |
 | `Product` | Data class | Modelo de dominio del producto con referencia al restaurante padre |
 | `RestaurantAdapter` | RecyclerView.Adapter | Renderiza la lista de restaurantes con imagen, nombre y descripción |
@@ -123,7 +123,7 @@ La tabla `products` tiene una clave foránea que referencia a `restaurants`, gar
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/ordena.git
+   git clone https://github.com/Llarry793/Ordena.git
    ```
 2. Abre el proyecto en Android Studio.
 3. Sincroniza las dependencias de Gradle.
