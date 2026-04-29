@@ -10,6 +10,14 @@ Ordena surge como solución práctica para quienes necesitan llevar un control d
 
 ***
 
+## Capturas de pantalla
+
+| Lista de restaurantes | Inventario de productos |
+|:--------------------:|:----------------------:|
+| ![Lista de restaurantes](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/8aa66eb5-53f1-4b09-a516-251070e0be4d) | ![Inventario de productos](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/72a25401-d31e-4a4f-8b4b-101c2461a8e2) |
+
+***
+
 ## Características principales
 
 - 🏪 **Gestión de restaurantes**: añade, consulta y elimina restaurantes con nombre, descripción, foto personalizada y dirección física.
