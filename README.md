@@ -14,7 +14,7 @@ Ordena surge como solución práctica para quienes necesitan llevar un control d
 
 | Lista de restaurantes | Inventario de productos |
 |:--------------------:|:----------------------:|
-| ![Lista de restaurantes](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/8aa66eb5-53f1-4b09-a516-251070e0be4d) | ![Inventario de productos](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/72a25401-d31e-4a4f-8b4b-101c2461a8e2) |
+| ![Lista de restaurantes](screenshots/PantallaInicioOrdena.jpg) | ![Inventario de productos](screenshots/InfoRestauranteOrdena.jpg) |
 
 ***
 
