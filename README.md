@@ -14,7 +14,7 @@ Ordena surge como solución práctica para quienes necesitan llevar un control d
 
 | Lista de restaurantes | Inventario de productos |
 |:--------------------:|:----------------------:|
-| ![Lista de restaurantes](screenshots/PantallaInicioOrdena.jpg) | ![Inventario de productos](screenshots/InfoRestauranteOrdena.jpg) |
+| ![Lista de restaurantes](screenshots/PantallaInicioOrdena.png) | ![Inventario de productos](screenshots/InfoRestauranteOrdena.png) |
 
 ***
 
