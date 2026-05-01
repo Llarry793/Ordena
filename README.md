@@ -20,13 +20,13 @@ Ordena surge como solución práctica para quienes necesitan llevar un control d
 
 ## Características principales
 
-- 🏪 **Gestión de restaurantes**: añade, consulta y elimina restaurantes con nombre, descripción, foto personalizada y dirección física.
-- 📦 **Inventario por restaurante**: registra los productos de cada establecimiento indicando nombre, unidad de medida y cantidad en stock.
-- ➕➖ **Control de stock en tiempo real**: incrementa o decrementa la cantidad de cada producto directamente desde la lista con botones +/−.
-- 🗺️ **Integración con Google Maps**: visualiza todos los restaurantes sobre el mapa o navega a la ubicación de un restaurante concreto desde la pantalla de su inventario.
-- 🔔 **Alertas de stock bajo**: cuando la cantidad de un producto cae a X unidades o menos, la app lanza automáticamente una notificación push al dispositivo.
-- ↩️ **Deshacer eliminación**: al borrar un restaurante deslizando (swipe), aparece un Snackbar con opción de deshacer la acción antes de que sea permanente.
-- 📸 **Foto del restaurante**: al añadir un restaurante se puede adjuntar una foto desde la galería o la cámara del dispositivo.
+- **Gestión de restaurantes**: añade, consulta y elimina restaurantes con nombre, descripción, foto personalizada y dirección física.
+- **Inventario por restaurante**: registra los productos de cada establecimiento indicando nombre, unidad de medida y cantidad en stock.
+- **Control de stock en tiempo real**: incrementa o decrementa la cantidad de cada producto directamente desde la lista con botones +/−.
+- **Integración con Google Maps**: visualiza todos los restaurantes sobre el mapa o navega a la ubicación de un restaurante concreto desde la pantalla de su inventario.
+- **Alertas de stock bajo**: cuando la cantidad de un producto cae a X unidades o menos, la app lanza automáticamente una notificación push al dispositivo.
+- **Deshacer eliminación**: al borrar un restaurante deslizando (swipe), aparece un Snackbar con opción de deshacer la acción antes de que sea permanente.
+- **Foto del restaurante**: al añadir un restaurante se puede adjuntar una foto desde la galería o la cámara del dispositivo.
 
 ***
 
